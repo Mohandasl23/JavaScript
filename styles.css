@@ -3,15 +3,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "EB Garamond", serif;
 }
 h1{
     color: #e100ff ;
     text-align: center;
     font-size: 100px;
+    font-weight: 700;
 }
 p{
     text-align:center;
     font-size: 30px;
+    font-weight: 700;
+    
 }
 img {    
     margin: auto;
@@ -30,6 +34,10 @@ button{
     color: white;
     font-weight: 500;
     cursor: pointer;
+    
+}
+a {
+    text-decoration: none;
 }
 button:hover {       
     background-color: #8314c4;
